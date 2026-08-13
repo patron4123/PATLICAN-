@@ -97,8 +97,8 @@ http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259923
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259924&extension=ts&play_token=4OsbqCN3fX
 #EXTINF:-1 tvg-logo="https://www.kralmuzik.com.tr/app/themes/kral/assets/images/kral-logo-sm.svg" group-title="🇹🇷 | ULUSAL",KRAL POP AKUSTIK
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259925&extension=ts&play_token=jZoTLOyXw1
-#EXTINF:-1 tvg-logo="https://img.dsmartgo.com.tr/content/w/Uq/16203/Thumbnail.png" group-title="🇹🇷 | ULUSAL",FX
-https://asilrengi.denek1544.workers.dev/channel/Rlg=.m3u8
+#EXTINF:-1 tvg-logo="https://img.dsmartgo.com.tr/content/w/Uq/16203/Thumbnail.png" group-title="🇹🇷 | ULUSAL",FX FHD
+http://99499ef3.com:8080/leventadiguzel/eGPBngS/354
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/500px-2018_Animal_Planet_logo.svg.png" group-title="🇹🇷 | ULUSAL",ANIMAL PLANET UHD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260049&extension=ts&play_token=z0w0VmioL3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/500px-2018_Animal_Planet_logo.svg.png" group-title="🇹🇷 | ULUSAL",ANIMAL PLANET UHD
@@ -275,19 +275,19 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:A6:55:83&stream=868678&exten
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:75:3A:21&stream=868609&extension=ts&play_token=0VZ2SE5rf8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Smart-spor-2_635084424082165858.png" group-title="⚽ | SPOR",SMART SPORT 2 UHD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:75:3A:21&stream=868608&extension=ts&play_token=UwTXCWeidU
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?_=20221231090446" group-title="⚽ | SPOR",TIVIBU SPORT UHD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=1060514&extension=ts&play_token=xJfL6R9Kd1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?_=20221231090446" group-title="⚽ | SPOR",TIVIBU SPORT 1 UHD+
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260088&extension=ts&play_token=jTqoMV0nyZ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?_=20221231090446" group-title="⚽ | SPOR",TIVIBU SPORT 1 UHD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260089&extension=ts&play_token=pqhJmO2t9V
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?_=20221231090446" group-title="⚽ | SPOR",TIVIBU SPORT 2 UHD+
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260090&extension=ts&play_token=moIBRCP1z0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?_=20221231090446" group-title="⚽ | SPOR",TIVIBU SPORT 2 UHD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260091&extension=ts&play_token=TgAojnmvJf
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?_=20221231090446" group-title="⚽ | SPOR",TIVIBU SPORT 3 UHD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=1035121&extension=ts&play_token=vqv6psOujC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?_=20221231090446" group-title="⚽ | SPOR",TIVIBU SPORT 4 UHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?_=20221231090446" group-title="⚽ | SPOR",TIVIBU SPORT FHD
+http://99499ef3.com:8080/leventadiguzel/eGPBngS/125109
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?_=20221231090446" group-title="⚽ | SPOR",TIVIBU SPORT 1 FHD
+http://99499ef3.com:8080/leventadiguzel/eGPBngS/298
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?_=20221231090446" group-title="⚽ | SPOR",TIVIBU SPORT 1 HD
+http://99499ef3.com:8080/leventadiguzel/eGPBngS/268
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?_=20221231090446" group-title="⚽ | SPOR",TIVIBU SPORT 2 FHD
+http://99499ef3.com:8080/leventadiguzel/eGPBngS/299
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?_=20221231090446" group-title="⚽ | SPOR",TIVIBU SPORT 2 HD
+http://99499ef3.com:8080/leventadiguzel/eGPBngS/299
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?_=20221231090446" group-title="⚽ | SPOR",TIVIBU SPORT 3 FHD
+http://99499ef3.com:8080/leventadiguzel/eGPBngS/300
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?_=20221231090446" group-title="⚽ | SPOR",TIVIBU SPORT 4 FHD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=1060515&extension=ts&play_token=qJ39YoP2Wv
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/FCzDc31AsTFzobw8Z4QBCc8AGtKgFP4mq28RgbcLJGdVNlE0RoremvEr1XntYHFc6G0dAwU-" group-title="⚽ | SPOR",TRT SPOR 4K
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/544077
@@ -297,16 +297,14 @@ http://99499ef3.com:8080/leventadiguzel/eGPBngS/544074
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=708&extension=ts&play_token=9HxnbsQNIJ
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CTYNXpw6_5CzpZbDDVMUIUsn3KwlbPGBW2w2x0Glgftvwj2YpHnCN5Wt2aDbv76eBjn-NqIKqg" group-title="⚽ | SPOR",EUROSPORT 2 4K
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=707&extension=ts&play_token=2mg4QJgGT9
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1858456580888363008/1Tf5Sr7N_400x400.jpg" group-title="⚽ | SPOR",S SPORT PLUS+ 1 HD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=943835&extension=ts&play_token=GegDco9vGu
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1858456580888363008/1Tf5Sr7N_400x400.jpg" group-title="⚽ | SPOR",S SPORT PLUS+2 HD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=1288111&extension=ts&play_token=rPaaixZmSv
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1858456580888363008/1Tf5Sr7N_400x400.jpg" group-title="⚽ | SPOR",S SPORT PLUS 3 HD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=943835&extension=ts&play_token=GegDco9vGu
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gvJvmHjz_AD2oWOrKpMHrc6PkrPaf9ZJn714gU1hOYxOh7XWqLbSjwniRy9wXxs0R6vyIFsCivA" group-title="⚽ | SPOR",S SPORT 1 HD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=683162&extension=ts&play_token=0NjLKy4Kth
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gvJvmHjz_AD2oWOrKpMHrc6PkrPaf9ZJn714gU1hOYxOh7XWqLbSjwniRy9wXxs0R6vyIFsCivA" group-title="⚽ | SPOR",S SPORT 2 HD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=683163&extension=ts&play_token=zkVsbio9i7
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gvJvmHjz_AD2oWOrKpMHrc6PkrPaf9ZJn714gU1hOYxOh7XWqLbSjwniRy9wXxs0R6vyIFsCivA" group-title="⚽ | SPOR",S SPORT 1 FHD
+http://richtv323.xyz:2095/mrh2300tvss/mrh2809yy00/71749
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gvJvmHjz_AD2oWOrKpMHrc6PkrPaf9ZJn714gU1hOYxOh7XWqLbSjwniRy9wXxs0R6vyIFsCivA" group-title="⚽ | SPOR",S SPORT 2 FHD
+http://richtv323.xyz:2095/mrh2300tvss/mrh2809yy00/197161
+#EXTINF:-1 tvg-logo="https://www.playstore.com/storage/images/product/27360/300x421/s-spor-plus-uyelik-satin-al.jpeg" group-title="⚽ | SPOR",S SPORT PLUS+ 1 HD
+http://richtv323.xyz:2095/mrh2300tvss/mrh2809yy00/71749
+#EXTINF:-1 tvg-logo="https://www.playstore.com/storage/images/product/27360/300x421/s-spor-plus-uyelik-satin-al.jpeg" group-title="⚽ | SPOR",S SPORT PLUS+ 2 HD
+http://richtv323.xyz:2095/mrh2300tvss/mrh2809yy00/197161
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG?_=20090916083442" group-title="⚽ | SPOR",GALATASARAY TV UHD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260099&extension=ts&play_token=ZB75NUvfuV
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qm8gakzNZozT-LY8xbyAg3bZGAjMsiT4p9gD06mMLwl4rI4564dJp57uv4fVtyll3onIdeSFRHo" group-title="⚽ | SPOR",HT SPOR HD
@@ -337,6 +335,10 @@ http://99499ef3.com:8080/leventadiguzel/eGPBngS/460130
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/362954
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250815850937.png" group-title="⚽ | SPOR",Ekol Sports HD
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://gecbunlari.com/wp-content/uploads/2024/11/CBC-Sport-1024x1024.png.webp" group-title="⚽ | SPOR",CBC Sports
+http://ott.teleport.az/server33/hls/cbc_sport.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+#EXTINF:-1 tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" group-title="⚽ | SPOR",İdman TV
+http://109.205.166.68/server124/idman_az/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 #EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/COCUKSMART.png" group-title="👶 | COCUK",ÇOCUK SMART
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/425
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/500px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="👶 | COCUK",NICK JR
@@ -385,10 +387,12 @@ http://99499ef3.com:8080/leventadiguzel/eGPBngS/260507
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/260508
 #EXTINF:-1 tvg-logo="https://www.muzikogretmenleriyiz.biz/wp-content/smush-webp/2015/11/tom-y-jerry.jpg.webp" group-title="👶 | COCUK",Tom & Jerry HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/128777
-#EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/Bein_Movies_Action_HD_yeni@3x.png" group-title="📺 | SINEMA",BEIN MOVIES ACTION UHD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259978&extension=ts&play_token=UtNTdVTZPY
+#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtgenc/images/brand/trt-genc-logo.svg" group-title="👶 | COCUK",TRT Genç FHD
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260099&extension=ts&play_token=ZB75NUvfuV
+#EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/Bein_Movies_Action_HD_yeni@3x.png" group-title="📺 | SINEMA",BEIN MOVIES ACTION FHD
+http://richtv323.xyz:2095/mrh2300tvss/mrh2809yy00/25515
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/Bein_Movies_Action_HD_yeni@3x.png" group-title="📺 | SINEMA",BEIN MOVIES ACTION HD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259979&extension=ts&play_token=ugkwPWhKEi
+http://richtv323.xyz:2095/mrh2300tvss/mrh2809yy00/25515
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/Bein_Movies_Action_HD_yeni@3x.png" group-title="📺 | SINEMA",BEIN MOVIES ACTION 2 HD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259980&extension=ts&play_token=Y7FbL7stuu
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/Bein_Movies_Family_HD_yeni%20(1)@3x.png" group-title="📺 | SINEMA",BEIN MOVIES FAMILY UHD
@@ -501,10 +505,14 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:85:A9:A8&stream=4525&extensi
 https://stream.badinan.xyz/welat/tv/chunklist_w1058243522.m3u8
 #EXTINF:-1 tvg-logo="https://rojavatv.net/wp-content/uploads/2026/06/rojavalogonew.png" group-title="📺 | KÜRTÇE",Rojava TV HD
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/main/Patl%C4%B1canTV%20(2).png" group-title="####### PATLICAN TV #######",###### PATLICAN TV ######
-https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICAN%20TV.mp3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/main/Patl%C4%B1canTV%20(2).png" group-title="####### PATLICAN TV #######",## PATLICAN TV (VİDEO) ##
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/500px-TRT_Kurd%C3%AE_logo.svg.png?utm_source=tr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="📺 | KÜRTÇE",TRT Kurdi FHD
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/main/Patl%C4%B1canTV%20(2).png" group-title="####### PATLICAN TV #######",### PATLICAN TV ###
+https://github.com/patron4123/PATLICAN-/raw/333913b027bf0aa0b8de5451933a336d5b1f2d5c/2026-07-15-184005612.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/main/Patl%C4%B1canTV%20(2).png" group-title="####### PATLICAN TV #######",## PATLICAN TV ##
 https://raw.githubusercontent.com/patron4123/PATLICAN-/ada22de69dba0ed6f192be45f5d56f4f22ba6c47/20260614_203839134.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/main/Patl%C4%B1canTV%20(2).png" group-title="####### PATLICAN TV #######",#### PATLICAN TV ####
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/Patlican_TV_promotional_video_202608131516.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5yUJTtMm0v92LltVlQNnrIiYuoU.jpg" group-title="🎬 | FİLM",Sıfır Bir
 https://vidmody.com/vs/tt11493232
 #EXTINF:-1 tvg-logo="https://turkcealtyazi.org/film/200/0110357.jpg" group-title="🎬 | FİLM",Aslan Kral
@@ -907,6 +915,26 @@ https://vidmody.com/vs/tt3411444
 https://vidmody.com/vs/tt29808429
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jmXiZHRiJ3qma0sxh2LpqddlMJo.jpg" group-title="🎬 | FİLM",Altın Gol
 https://vidmody.com/vs/tt1634003
+#EXTINF:-1 tvg-logo="https://filmizlehell.com/storage/posters/19888/firtina-kiz-poster.webp" group-title="🎬 | FİLM",Fırtına Kız
+https://p.2turk.xyz/videos/NDday8Es/master.m3u8?v=1785479585
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o4N7zEymfPKLXgGdRwRBE2vgnIA.jpg" group-title="🎬 | FİLM",Hep Yek
+https://vidmody.com/vs/tt5295358
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1u442h9yfbxH4dedQ6XP4CB8CGu.jpg" group-title="🎬 | FİLM",Hep Yek 2
+https://vidmody.com/vs/tt6126428
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1bous6riqZ5DNQCMFQnomXNly2u.jpg" group-title="🎬 | FİLM",Hep Yek 3: Titrettin Beni
+https://vidmody.com/vs/tt6426234
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pP2LzIIlmM23Fp2qtTv6YjbyAiW.jpg" group-title="🎬 | FİLM",Hep Yek 4: Bela Okuma Altan
+https://vidmody.com/vs/tt13057656
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e1GbWZCDpGYtjssIChydgZuqylo.jpg" group-title="🎬 | FİLM",Hep Yek 5: BizimŞeyimizMiAltan
+https://vidmody.com/vs/tt20835776
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6JG7dWfWQIefBWCRyOEzerps2tc.jpg" group-title="🎬 | FİLM",Hep Yek: Düğün
+https://vidmody.com/vs/tt27418823
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fxpKdkIFZvCqaSW95ykNI2v07hN.jpg" group-title="🎬 | FİLM",Hep Yek: Aşiret
+https://vidmody.com/vs/tt32096684
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ogoc6bWdkeXRn25MOHm34V9yez7.jpg" group-title="🎬 | FİLM",Hep Yek: Loto
+https://vidmody.com/vs/tt36622181
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ccCsgqAUOJ5EnhenNLRK7K6hGqf.jpg" group-title="🎬 | FİLM",Gönül
+https://vidmody.com/vs/tt21339860
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 1.Bölüm
 https://httxxkbiqd.erbvr.com/vms/2/e9/e7/2e9e70ca-be2e-442b-ac85-92bc8dcd041f/2e9e70ca-be2e-442b-ac85-92bc8dcd041f.smil/.m3u8?st=O0t5-QGN9hzlTesgc8VBQQ&e=1782694611
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 2.Bölüm
@@ -1021,6 +1049,34 @@ https://atv-vod.ercdn.net/video/dizi/ezel/55_mca7/cfb4556b-d260-4711-b456-033d63
 https://atv-vod.ercdn.net/video/dizi/ezel/56_gm1p/2c801cbf-5d5e-4b65-850c-2ad99e288f7e.hb.smil/playlist.m3u8?st=D8pt08B9xHds7S25RNUjNw&e=1782701683
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 57.Bölüm
 https://atv-vod.ercdn.net/video/dizi/ezel/57_npwl/058eaa49-41f3-4072-96fa-293fdaacc9b5.hb.smil/playlist.m3u8?st=8NzbgYV6DVUqDYFIg_NhGw&e=1782701706
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 58.Bölüm
+https://pjs1.uk-traffic-076.com/hls2/02/00001/v2senj3p87hw_n/master.m3u8?t=et7wFFwce8lWnZJp7tLUOk1HdAzimg_7QE07OZB1a9U&s=1786356104&e=3600&v=51531410&srv=x3&i=78.166&sp=5000
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 59.Bölüm
+https://sn12.uk-traffic-076.com/hls2/02/00001/go4lijanevsx_n/master.m3u8?t=8ruTrkII9Hw6Rd7YPj1FTnJaWSdaFpi-nFt-tP6rYG4&s=1786356162&e=3600&v=51531757&srv=x3&i=78.166&sp=5000
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 60.Bölüm
+https://dn2p.uk-traffic-076.com/hls2/02/00001/1on6xd8nswdt_n/master.m3u8?t=egJRN2E6HPteJ9h7wWi4Sf9fNz-m7bMSDkGsjCJbc1Q&s=1786356212&e=3600&v=51531902&srv=x3&i=78.166&sp=5000
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 61.Bölüm
+https://o3zr.uk-traffic-076.com/hls2/02/00001/az8e1gjknn3l_n/master.m3u8?t=6wskLgHSoLSPhfMSFo5WFnSPAfic9IoaLklrQexv428&s=1786356248&e=3600&v=51532000&srv=x3&i=78.166&sp=5000
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 62.Bölüm
+https://o3zr.uk-traffic-076.com/hls2/02/00001/ooqkig9edgrq_n/master.m3u8?t=ni2XKTY2giD36Eq4IXSGcMv1yZL04lgghmAuDM_uxS0&s=1786356269&e=3600&v=51532054&srv=x3&i=78.166&sp=5000
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 63.Bölüm
+https://zm1w.uk-traffic-076.com/hls2/02/00001/9c1o0209yteg_n/master.m3u8?t=Eo8a5BXp1N0F0I7yGnRHduQW8wn1daUX-J4reTHVwto&s=1786356363&e=3600&v=51532320&srv=x3&i=78.166&sp=5000
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 64.Bölüm
+https://hd1d.uk-traffic-076.com/hls2/02/00001/2q5zvgc4afz7_n/master.m3u8?t=768CTZ0mLJixbJTuQ9E_LW2hbcxRd1ghFDi5jWfAyYo&s=1786356408&e=3600&v=51532466&srv=x3&i=78.166&sp=5000
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 65.Bölüm
+https://y3k9.uk-traffic-076.com/hls2/02/00001/s7cvq4lmy8dx_n/master.m3u8?t=kh7ihRmLiC0Rowq9hQR9RclwSkJBOiEA4lTW5_qX_Z0&s=1786357447&e=3600&v=51535437&srv=x3&i=78.166&sp=5000
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 66.Bölüm
+https://ksm2.uk-traffic-076.com/hls2/02/00001/fdhjldo1f8fn_n/master.m3u8?t=NPh1bi4Lu7Oje3_gR-IF6aoK5n4qdfD_qAEokyOxFUg&s=1786357471&e=3600&v=51535481&srv=x3&i=78.166&sp=5000
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 67.Bölüm
+https://zm1w.uk-traffic-076.com/hls2/02/00001/ce185pwksmco_n/master.m3u8?t=89UtMvTQFXFIHZjxGmeTzokucKDqalZYvT4PG6hsqdI&s=1786357492&e=3600&v=51535528&srv=x3&i=78.166&sp=5000
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 68.Bölüm
+https://h2m1.uk-traffic-076.com/hls2/02/00001/vxgtjxbuzwe3_n/master.m3u8?t=tCDqg7Y_SNAZ_cpZryuZdG5Hx2W4V3QGWXRwCudsGsI&s=1786357518&e=3600&v=51535595&srv=x3&i=78.166&sp=5000
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 69.Bölüm
+https://sm21.uk-traffic-076.com/hls2/02/00001/0e8i0h9kx48l_n/master.m3u8?t=OY2mDg5pRK9XOWyoeD7MkIv_213Lb1Hc0L5GKOLfKLk&s=1786357536&e=3600&v=51535631&srv=x3&i=78.166&sp=5000
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 70.Bölüm
+https://ak1m.uk-traffic-076.com/hls2/02/00001/mp3c12m1bcch_n/master.m3u8?t=_OauKVXnYtPsEv8Aur-MS1qtGNSH0lYqvOtPudj7cXQ&s=1786357557&e=3600&v=51535677&srv=x3&i=78.166&sp=5000
+#EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 71.Bölüm
+https://ka5m.uk-traffic-076.com/hls2/02/00001/vgd9qvgzupb7_n/master.m3u8?t=KtpA8bFIXl_NdS4OaUH9YH2hJcFMfLW9hArPTeLy4VA&s=1786357576&e=3600&v=51535712&srv=x3&i=78.166&sp=5000
 #EXTINF:-1 tvg-logo="https://www.tugbam.net/wp-content/uploads/2026/03/esref-ruya-dizisi-poster.jpg" group-title="🎬 | EŞREF RÜYA",Eşref Rüya 1.Sezon 1.Bölüm
 https://one.82b6b2a6748f1e.click/4uMuuy2ypqbkUrd6cUqN3E_3/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.tugbam.net/wp-content/uploads/2026/03/esref-ruya-dizisi-poster.jpg" group-title="🎬 | EŞREF RÜYA",Eşref Rüya 1.Sezon 2.Bölüm
@@ -1745,3 +1801,89 @@ https://van.d1iz-b0ok.xyz/storage/media/6e9156778596f597a34aa791ffcb784b-720.mp4
 https://van.d1iz-b0ok.xyz/storage/media/3b9597dce917744bff4635d9612fcc2d-720.mp4/gomindex.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sinemalar.com/images/movie/277413/poster/aktris-1681807949_225x336.jpg" group-title="🎬 | AKTRİS",Aktris 8.Bölüm
 https://van.d1iz-b0ok.xyz/storage/media/45e689fda0608fe9f9a60623e3aade8f-720.mp4/gomindex.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B1
+https://vs21.photomag.biz/v/Gravity.Falls.S01E01.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B2
+https://vs21.photomag.biz/v/Gravity.Falls.S01E02.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B3
+https://vs22.photour.org/v/Gravity.Falls.S01E03.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B4
+https://vs22.photomag.biz/v/Gravity.Falls.S01E04.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B5
+https://vs21.photostack.net/v/Gravity.Falls.S01E05.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B6
+https://vs21.photoflix.org/v/Gravity.Falls.S01E06.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B7
+https://vs22.photoflick.org/v/Gravity.Falls.S01E07.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B8
+https://vs21.photoflick.org/v/Gravity.Falls.S01E08.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B9
+https://vs21.photoflix.org/v/Gravity.Falls.S01E09.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B10
+https://vs21.photostack.net/v/Gravity.Falls.S01E10.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B11
+https://vs22.photoflick.org/v/Gravity.Falls.S01E11.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B12
+https://vs22.photoflix.org/v/Gravity.Falls.S01E12.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B13
+https://vs22.photostack.net/v/Gravity.Falls.S01E13.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B14
+https://vs22.photoflick.org/v/Gravity.Falls.S01E14.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B15
+https://vs22.photoflax.org/v/Gravity.Falls.S01E15.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B16
+https://vs22.photoflax.org/v/Gravity.Falls.S01E16.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B17
+https://vs22.pictureflix.org/v/Gravity.Falls.S01E17.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B18
+https://vs22.photoflax.org/v/Gravity.Falls.S01E18.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B19
+https://vs22.photofunny.org/v/Gravity.Falls.S01E19.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B20
+https://vs22.photoflick.org/v/Gravity.Falls.S01E20.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B1
+https://vs22.photoflick.org/v/Gravity.Falls.S02E01.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B2
+https://vs22.photofunny.org/v/Gravity.Falls.S02E02.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B3
+https://vs22.photour.org/v/Gravity.Falls.S02E03.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B4
+https://vs21.photour.org/v/Gravity.Falls.S02E04.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B5
+https://vs21.photostack.net/v/Gravity.Falls.S02E05.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B6
+https://vs22.photofunny.org/v/Gravity.Falls.S02E06.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B7
+https://vs22.pictureflix.org/v/Gravity.Falls.S02E07.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B8
+https://vs21.photomag.biz/v/Gravity.Falls.S02E08.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B9
+https://vs21.photoflick.org/v/Gravity.Falls.S02E09.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B10
+https://vs21.photostack.net/v/Gravity.Falls.S02E10.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B11
+https://vs21.photour.org/v/Gravity.Falls.S02E11.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B12
+https://vs22.photoflick.org/v/Gravity.Falls.S02E12.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B13
+https://vs21.photoflix.org/v/Gravity.Falls.S02E13.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B14
+https://vs16.photoflax.org/v/Gravity.Falls.S02E14.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B15
+https://vs22.photomag.biz/v/Gravity.Falls.S02E15.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B16
+https://vs22.photour.org/v/Gravity.Falls.S02E16.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B17
+https://vs22.pictureflix.org/v/Gravity.Falls.S02E17.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B18
+https://vs22.pictureflix.org/v/Gravity.Falls.S02E18.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B19
+https://vs22.photoflax.org/v/Gravity.Falls.S02E19.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B20
+https://vs22.pictureflix.org/v/Gravity.Falls.S02E20.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
+#EXTINF:-1 tvg-logo="https://a.prectv70.lol/uploads/cache/poster_thumb/uploads/jpg/82696e1f9a11d8aa76112e283b156a95.jpg" group-title="🎬 | RONALDİNHO GAÚCHO",Ronaldinho Gaúcho 1.Bölüm
+https://box-1470-u.vmeas.cloud/hls2/05/02316/1x9mqipsidqq_n/master.m3u8?t=TIfqzwdFfIpkpNFE6La0sb_8PKzPphl_gJNYa9N-8_4=&s=1786434096&e=43200&v=&srv=box-1470-u&i=0.4&sp=0&asn=9121
+#EXTINF:-1 tvg-logo="https://a.prectv70.lol/uploads/cache/poster_thumb/uploads/jpg/82696e1f9a11d8aa76112e283b156a95.jpg" group-title="🎬 | RONALDİNHO GAÚCHO",Ronaldinho Gaúcho 2.Bölüm
+https://box-c-o-l-10-g.vmeas.cloud/hls2/03/02316/m4dqakrb9lp7_n/master.m3u8?t=l3oP65DU9orx6giCc-_49V9Ym7WtF7N77aXaHKQm9nI=&s=1786434146&e=43200&v=&i=0.4&sp=0&asn=9121
+#EXTINF:-1 tvg-logo="https://a.prectv70.lol/uploads/cache/poster_thumb/uploads/jpg/82696e1f9a11d8aa76112e283b156a95.jpg" group-title="🎬 | RONALDİNHO GAÚCHO",Ronaldinho Gaúcho 3.Bölüm
+https://box-c-o-l-10-g.vmeas.cloud/hls2/02/02316/kpx19lddmlry_n/master.m3u8?t=xXHDYL1Sj1PWiWOVBrpvDoH0fD6Aq4Mrh7JQRNc4wmU=&s=1786434172&e=43200&v=&i=0.4&sp=0&asn=9121
