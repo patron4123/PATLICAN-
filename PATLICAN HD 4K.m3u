@@ -177,8 +177,8 @@ http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259929
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259931&extension=ts&play_token=be5WjsB7Xg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" group-title="📰 | HABER",CNN TURK UHD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/423
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="📰 | HABER",NTV 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:19:5F:B7&stream=912921&extension=ts&play_token=1UpjkeX0d0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="📰 | HABER",NTV FHD
+http://99499ef3.com:8080/leventadiguzel/eGPBngS/406
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/a/a6/24_TV_logosu.png/250px-24_TV_logosu.png" group-title="📰 | HABER",24 TV 4K
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197241&extension=ts&play_token=Wu0UZQvCRI
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/ulke-tv-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="📰 | HABER",ÜLKE TV 4K
@@ -217,15 +217,17 @@ http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259933
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259946&extension=ts&play_token=BqvgazT7xF
 #EXTINF:-1 tvg-logo="https://s.tv100.com/assets/web/images/logo.svg" group-title="📰 | HABER",TV 100 4K
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:00:1D:A5&stream=1713570&extension=ts&play_token=zrevzRgHF5
+#EXTINF:-1 tvg-logo="https://gzttv.tr/logo.png" group-title="📰 | HABER",GZT TV FHD
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.cnnturk.com/i/cnnturk/75/740x416/5f46aa08d265a21b183fb909.jpg" group-title="⚽ | SPOR",BEIN SPORTS HABER HD
 http://watchingt.site:80/play/live.php?mac=00:1A:79:11:05:26&stream=686359&extension=ts
-#EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD1.png" group-title="⚽ | SPOR",BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD1.png" group-title="⚽ | SPOR",BEIN SPORTS 1 FHD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/361367
-#EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD2.png" group-title="⚽ | SPOR",BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD2.png" group-title="⚽ | SPOR",BEIN SPORTS 2 FHD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/262
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports3.png" group-title="⚽ | SPOR",BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports3.png" group-title="⚽ | SPOR",BEIN SPORTS 3 FHD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/263
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports4.png" group-title="⚽ | SPOR",BEIN  SPORTS 4 HD
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports4.png" group-title="⚽ | SPOR",BEIN  SPORTS 4 FHD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/264
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSMAX1.png" group-title="⚽ | SPOR",BEIN SPORTS MAX 1 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:A6:55:83&stream=868679&extension=ts&play_token=Eivpt4DWB2
@@ -259,13 +261,13 @@ http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=618907
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=618906&extension=ts&play_token=TEILgMWBmo
 #EXTINF:-1 tvg-logo="https://image.cnnturk.com/i/cnnturk/75/740x416/6141ecf3b57f15170404f2dd.jpg" group-title="⚽ | SPOR",EXXEN SPOR 3 FHD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=618905&extension=ts&play_token=g6qt9h1sEt
-#EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD1.png" group-title="⚽ | SPOR",BEIN SPORTS 1 FHD
-https://hlsforever.forgetmoenszo.workers.dev/https://corestream.siteyaptim.live//bein1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD2.png" group-title="⚽ | SPOR",BEIN SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD1.png" group-title="⚽ | SPOR",BEIN SPORTS 1 HD
+http://99499ef3.com:8080/leventadiguzel/eGPBngS/405957
+#EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD2.png" group-title="⚽ | SPOR",BEIN SPORTS 2 HD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/116091
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports3.png" group-title="⚽ | SPOR",BEIN SPORTS 3 FHD
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports3.png" group-title="⚽ | SPOR",BEIN SPORTS 3 HD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/125160
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports4.png" group-title="⚽ | SPOR",BEIN SPORTS 4 FHD
+#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports4.png" group-title="⚽ | SPOR",BEIN SPORTS 4 HD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/125161
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSMAX1.png" group-title="⚽ | SPOR",BEIN SPORTS MAX 1 FHD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:A6:55:83&stream=868679&extension=ts&play_token=Eivpt4DWB2
@@ -1317,6 +1319,10 @@ https://video.twimg.com/amplify_video/2076775173131272193/pl/rOUQkvNs_o_j9jv-.m3
 https://video.twimg.com/amplify_video/2079315668831182848/pl/PvuC0KAdNChCIKx4.m3u8?tag=29
 #EXTINF:-1 tvg-logo="https://www.diziizle.now/img/dizi/alti-ustu-istanbul.jpg" group-title="🎬 | ALTI ÜSTÜ İSTANBUL",Altı Üstü İstanbul 7.Bölüm
 https://video.twimg.com/amplify_video/2081850135168905216/pl/KPI9WZ4BANsHLGFJ.m3u8?tag=29
+#EXTINF:-1 tvg-logo="https://www.diziizle.now/img/dizi/alti-ustu-istanbul.jpg" group-title="🎬 | ALTI ÜSTÜ İSTANBUL",Altı Üstü İstanbul 8.Bölüm
+https://video.twimg.com/amplify_video/2084390088767610880/pl/PY_cgFnuCYCJCQdf.m3u8?tag=29
+#EXTINF:-1 tvg-logo="https://www.diziizle.now/img/dizi/alti-ustu-istanbul.jpg" group-title="🎬 | ALTI ÜSTÜ İSTANBUL",Altı Üstü İstanbul 9.Bölüm
+https://video.twimg.com/amplify_video/2086925568809848832/pl/wBzcIgD-D6iOFcpX.m3u8?tag=29
 #EXTINF:-1 tvg-logo="https://www.sabantv.net/images/genel/logo_20260607_151024_1962.png" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",Şaban TV 7/24
 https://canaktv.sabantv.net:3996/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/IMG_20260702_165803-removebg-preview.png" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",GADDAR
@@ -1882,8 +1888,14 @@ https://vs22.photoflax.org/v/Gravity.Falls.S02E19.1080p.BluRay.x264.TR.ENG.Filmb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B20
 https://vs22.pictureflix.org/v/Gravity.Falls.S02E20.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.prectv70.lol/uploads/cache/poster_thumb/uploads/jpg/82696e1f9a11d8aa76112e283b156a95.jpg" group-title="🎬 | RONALDİNHO GAÚCHO",Ronaldinho Gaúcho 1.Bölüm
-https://box-1470-u.vmeas.cloud/hls2/05/02316/1x9mqipsidqq_n/master.m3u8?t=TIfqzwdFfIpkpNFE6La0sb_8PKzPphl_gJNYa9N-8_4=&s=1786434096&e=43200&v=&srv=box-1470-u&i=0.4&sp=0&asn=9121
+https://j2mx.uk-traffic-076.com/hls2/01/00033/eofxa2t8y8qd_n/master.m3u8?t=PpajQLcW-Xpm2qGY_hqKlsDwPLFTwAwJLJlvMG25h_M&s=1786868123&e=3600&v=52793085&srv=x2&i=78.166&sp=5000&fr=eofxa2t8y8qd
 #EXTINF:-1 tvg-logo="https://a.prectv70.lol/uploads/cache/poster_thumb/uploads/jpg/82696e1f9a11d8aa76112e283b156a95.jpg" group-title="🎬 | RONALDİNHO GAÚCHO",Ronaldinho Gaúcho 2.Bölüm
-https://box-c-o-l-10-g.vmeas.cloud/hls2/03/02316/m4dqakrb9lp7_n/master.m3u8?t=l3oP65DU9orx6giCc-_49V9Ym7WtF7N77aXaHKQm9nI=&s=1786434146&e=43200&v=&i=0.4&sp=0&asn=9121
+https://hd1d.uk-traffic-076.com/hls2/01/00033/wr9tpyqj45uz_n/master.m3u8?t=9SDe7T4YrvXzhIfkU0oFS_hAxhfmmjdvfzLjul5SAcU&s=1786868162&e=3600&v=52793290&srv=x3&i=78.166&sp=5000&fr=wr9tpyqj45uz
 #EXTINF:-1 tvg-logo="https://a.prectv70.lol/uploads/cache/poster_thumb/uploads/jpg/82696e1f9a11d8aa76112e283b156a95.jpg" group-title="🎬 | RONALDİNHO GAÚCHO",Ronaldinho Gaúcho 3.Bölüm
-https://box-c-o-l-10-g.vmeas.cloud/hls2/02/02316/kpx19lddmlry_n/master.m3u8?t=xXHDYL1Sj1PWiWOVBrpvDoH0fD6Aq4Mrh7JQRNc4wmU=&s=1786434172&e=43200&v=&i=0.4&sp=0&asn=9121
+https://xn2m.uk-traffic-076.com/hls2/02/00033/x2xsbcoiwqd5_n/master.m3u8?t=iqSUHAUC9ddSUwLXQn5su0lSWdAUTh1_CsCUFvQWi30&s=1786868185&e=3600&v=52793327&srv=x2&i=78.166&sp=5000&fr=x2xsbcoiwqd5
+#EXTINF:-1 tvg-logo="https://filmmakinesi.to/uploads/postlar/afis/jose-mourinho-2026.jpg-thumb-detay.webp" group-title="🎬 | JOSE MOURİNHO",Jose Mourinho 1.Bölüm
+https://play.filmizlemelisinkanka.com/Cikti/HLS/josemourinhos01e011bolumfc925219a32b_ORIGINAL/master.m3u8
+#EXTINF:-1 tvg-logo="https://filmmakinesi.to/uploads/postlar/afis/jose-mourinho-2026.jpg-thumb-detay.webp" group-title="🎬 | JOSE MOURİNHO",Jose Mourinho 2.Bölüm
+https://play.filmizlemelisinkanka.com/Cikti/HLS/josemourinhos01e022bolume78028ff6bec_ORIGINAL/master.m3u8
+#EXTINF:-1 tvg-logo="https://filmmakinesi.to/uploads/postlar/afis/jose-mourinho-2026.jpg-thumb-detay.webp" group-title="🎬 | JOSE MOURİNHO",Jose Mourinho 3.Bölüm
+https://play.filmizlemelisinkanka.com/Cikti/HLS/josemourinhos01e033bolum6dfdf5a0cff5_ORIGINAL/master.m3u8
