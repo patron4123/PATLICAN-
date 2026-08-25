@@ -31,7 +31,7 @@ http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=686882
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=744216&extension=ts&play_token=Vli8TZ8u0M
 #EXTINF:-1 tvg-logo="https://www.kanal23.com/images/logo.png" group-title="🇹🇷 | ULUSAL",KANAL 23
 https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://turkmenelitv.com/storage/logo-turk.png" group-title="🇹🇷 | ULUSAL",TURKMENELI UHD
+#EXTINF:-1 tvg-logo="https://imagecdn.turkmenelitv.com/logo-turk.png" group-title="🇹🇷 | ULUSAL",TURKMENELI UHD
 https://stream-135962.castr.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://www.aksutv.com.tr/temalar/AksuV1/assets/style/images/logo.png" group-title="🇹🇷 | ULUSAL",AKSU TV
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259893&extension=ts&play_token=WqgpphkhtN
@@ -262,7 +262,7 @@ http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=618906
 #EXTINF:-1 tvg-logo="https://image.cnnturk.com/i/cnnturk/75/740x416/6141ecf3b57f15170404f2dd.jpg" group-title="⚽ | SPOR",EXXEN SPOR 3 FHD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=618905&extension=ts&play_token=g6qt9h1sEt
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD1.png" group-title="⚽ | SPOR",BEIN SPORTS 1 HD
-http://99499ef3.com:8080/leventadiguzel/eGPBngS/405957
+https://corestream.siteyaptim.live//beintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD2.png" group-title="⚽ | SPOR",BEIN SPORTS 2 HD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/116091
 #EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports3.png" group-title="⚽ | SPOR",BEIN SPORTS 3 HD
@@ -352,7 +352,7 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=19741
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1280px-2024_Disney_Jr._Logo.svg.png" group-title="👶 | COCUK",DISNEY JR HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197416&extension=ts&play_token=hucq7m6UUI
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/1280px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="👶 | COCUK",TRT ÇOCUK 4K
-http://99499ef3.com:8080/leventadiguzel/eGPBngS/186668
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/MinikaCocuklogo.png" group-title="👶 | COCUK",MİNİKA ÇOCUK
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197414&extension=ts&play_token=QRcQhhtUMu
 #EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/mnka/go/site/Version1/i/logo.png" group-title="👶 | COCUK",MİNİKA GO
@@ -392,9 +392,9 @@ http://storetvx.xyz:2095/Enes.9461/Nes.9461/128777
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtgenc/images/brand/trt-genc-logo.svg" group-title="👶 | COCUK",TRT Genç FHD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260099&extension=ts&play_token=ZB75NUvfuV
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/Bein_Movies_Action_HD_yeni@3x.png" group-title="📺 | SINEMA",BEIN MOVIES ACTION FHD
-http://richtv323.xyz:2095/mrh2300tvss/mrh2809yy00/25515
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:B5:9F:7C&stream=1626873&extension=ts&play_token=419hNJCQCG
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/Bein_Movies_Action_HD_yeni@3x.png" group-title="📺 | SINEMA",BEIN MOVIES ACTION HD
-http://richtv323.xyz:2095/mrh2300tvss/mrh2809yy00/25515
+http://innovationdns.eu:80/play/live.php?mac=00:1A:79:B5:9F:7C&stream=1626873&extension=ts&play_token=419hNJCQCG
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/Bein_Movies_Action_HD_yeni@3x.png" group-title="📺 | SINEMA",BEIN MOVIES ACTION 2 HD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259980&extension=ts&play_token=Y7FbL7stuu
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/Bein_Movies_Family_HD_yeni%20(1)@3x.png" group-title="📺 | SINEMA",BEIN MOVIES FAMILY UHD
@@ -415,25 +415,23 @@ http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259987
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259988&extension=ts&play_token=OU6SvHmOyZ
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beIn-Turk.png" group-title="📺 | SINEMA",BEIN MOVIES TURK HD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259989&extension=ts&play_token=IYPTYyPMVI
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-4-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="📺 | SINEMA",BEIN SERIES 4 UHD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259992&extension=ts&play_token=OZkdAoPUW5
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-3-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="📺 | SINEMA",BEIN SERIES 3 UHD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259993&extension=ts&play_token=XqetthboEe
-#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanallar2/dizimax_sci_fi.jpg" group-title="📺 | SINEMA",BEIN SERIES SCIFI UHD
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-4-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="📺 | SINEMA",BEIN SERIES 4 FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:CA:6C:1F&stream=1471676&extension=ts&play_token=x3dLMvs808
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-3-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="📺 | SINEMA",BEIN SERIES 3 FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:CA:6C:1F&stream=1471675&extension=ts&play_token=gzHjnGWvXz
+#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanallar2/dizimax_sci_fi.jpg" group-title="📺 | SINEMA",BEIN SERIES SCIFI FHD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259994&extension=ts&play_token=RQRKlpbD2A
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-vice-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="📺 | SINEMA",BEIN  SERIES VICE UHD
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-vice-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="📺 | SINEMA",BEIN  SERIES VICE FHD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259995&extension=ts&play_token=1IdkpJYMxt
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-1-hd-buyuk.png" group-title="📺 | SINEMA",BEIN BOX OFFICE 1 UHD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259996&extension=ts&play_token=EHeir5LQxa
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-1-hd-buyuk.png" group-title="📺 | SINEMA",BEIN BOX OFFICE 1 UHD+
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259997&extension=ts&play_token=zKITQP9Lkx
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-2-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="📺 | SINEMA",BEIN SERIES 2 UHD+
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260002&extension=ts&play_token=BPk92AAMLw
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-1-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="📺 | SINEMA",BEIN SERIES 1 UHD+
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260003&extension=ts&play_token=PVHf5VsB8N
-#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanallar2/dizimax_sci_fi.jpg" group-title="📺 | SINEMA",BEIN  SERIES SCI-FI UHD+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-1-hd-buyuk.png" group-title="📺 | SINEMA",BEIN BOX OFFICE 1 FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:CA:6C:1F&stream=1471698&extension=ts&play_token=ZzrLzmL66r
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-2-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="📺 | SINEMA",BEIN SERIES 2 FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:CA:6C:1F&stream=1471674&extension=ts&play_token=5gfhIkzuQg
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-1-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="📺 | SINEMA",BEIN SERIES 1 FHD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:CA:6C:1F&stream=1471673&extension=ts&play_token=fDOWsHHnSf
+#EXTINF:-1 tvg-logo="https://cdn.digiturkburada.com.tr/kanallar2/dizimax_sci_fi.jpg" group-title="📺 | SINEMA",BEIN  SERIES SCI-FI FHD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260004&extension=ts&play_token=wFuDD5Aphb
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-vice-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="📺 | SINEMA",BEIN SERIES VICE UHD+
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-vice-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="📺 | SINEMA",BEIN SERIES VICE FHD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260005&extension=ts&play_token=vgO8eBahD7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/Dizismartmax.webp" group-title="📺 | SINEMA",DIZI SMART MAX
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260013&extension=ts&play_token=yfpTEYWKek
@@ -908,7 +906,7 @@ https://vidmody.com/vs/tt10872600
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2k49onFB4SnbMWgczIhf1JWl6Tr.jpg" group-title="🎬 | FİLM",Spiderman:ÖrümcekEvrenineGeçiş
 https://vidmody.com/vs/tt9362722
 #EXTINF:-1 tvg-logo="https://cdn.marvel.com/content/2x/spidermanbrandnewday_lob_crd_02.webp" group-title="🎬 | FİLM",Örümcek-Adam: Yepyeni Bir Gün
-https://p.2turk.xyz/videos/x7g5zCYk/master.m3u8?v=1785905377
+https://p.playturka.space/videos/x7g5zCYk/master.m3u8?v=1787319295
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8gdOy6vd1lK2KyakZroETXyB4re.jpg" group-title="🎬 | FİLM",Piyanist
 https://vidmody.com/vs/tt0253474
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9VFauPfgRHi2zutzoFP3Uz7rVnW.jpg" group-title="🎬 | FİLM",Ferdinand
@@ -937,6 +935,10 @@ https://vidmody.com/vs/tt32096684
 https://vidmody.com/vs/tt36622181
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ccCsgqAUOJ5EnhenNLRK7K6hGqf.jpg" group-title="🎬 | FİLM",Gönül
 https://vidmody.com/vs/tt21339860
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21EN8reaMiQctJeRDQ5QPoyx39c.jpg" group-title="🎬 | FİLM",Yedi Gün
+https://vidmody.com/vs/tt0997229
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xJVl1I95StraYAwaNbBkVoWE2qA.jpg" group-title="🎬 | FİLM",Godzilla
+https://vidmody.com/vs/tt0120685
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 1.Bölüm
 https://httxxkbiqd.erbvr.com/vms/2/e9/e7/2e9e70ca-be2e-442b-ac85-92bc8dcd041f/2e9e70ca-be2e-442b-ac85-92bc8dcd041f.smil/.m3u8?st=O0t5-QGN9hzlTesgc8VBQQ&e=1782694611
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 2.Bölüm
@@ -1052,33 +1054,33 @@ https://atv-vod.ercdn.net/video/dizi/ezel/56_gm1p/2c801cbf-5d5e-4b65-850c-2ad99e
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 57.Bölüm
 https://atv-vod.ercdn.net/video/dizi/ezel/57_npwl/058eaa49-41f3-4072-96fa-293fdaacc9b5.hb.smil/playlist.m3u8?st=8NzbgYV6DVUqDYFIg_NhGw&e=1782701706
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 58.Bölüm
-https://pjs1.uk-traffic-076.com/hls2/02/00001/v2senj3p87hw_n/master.m3u8?t=et7wFFwce8lWnZJp7tLUOk1HdAzimg_7QE07OZB1a9U&s=1786356104&e=3600&v=51531410&srv=x3&i=78.166&sp=5000
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICANTV%C4%B0NTROSU.mp4
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 59.Bölüm
-https://sn12.uk-traffic-076.com/hls2/02/00001/go4lijanevsx_n/master.m3u8?t=8ruTrkII9Hw6Rd7YPj1FTnJaWSdaFpi-nFt-tP6rYG4&s=1786356162&e=3600&v=51531757&srv=x3&i=78.166&sp=5000
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICANTV%C4%B0NTROSU.mp4
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 60.Bölüm
-https://dn2p.uk-traffic-076.com/hls2/02/00001/1on6xd8nswdt_n/master.m3u8?t=egJRN2E6HPteJ9h7wWi4Sf9fNz-m7bMSDkGsjCJbc1Q&s=1786356212&e=3600&v=51531902&srv=x3&i=78.166&sp=5000
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICANTV%C4%B0NTROSU.mp4
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 61.Bölüm
-https://o3zr.uk-traffic-076.com/hls2/02/00001/az8e1gjknn3l_n/master.m3u8?t=6wskLgHSoLSPhfMSFo5WFnSPAfic9IoaLklrQexv428&s=1786356248&e=3600&v=51532000&srv=x3&i=78.166&sp=5000
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICANTV%C4%B0NTROSU.mp4
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 62.Bölüm
-https://o3zr.uk-traffic-076.com/hls2/02/00001/ooqkig9edgrq_n/master.m3u8?t=ni2XKTY2giD36Eq4IXSGcMv1yZL04lgghmAuDM_uxS0&s=1786356269&e=3600&v=51532054&srv=x3&i=78.166&sp=5000
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICANTV%C4%B0NTROSU.mp4
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 63.Bölüm
-https://zm1w.uk-traffic-076.com/hls2/02/00001/9c1o0209yteg_n/master.m3u8?t=Eo8a5BXp1N0F0I7yGnRHduQW8wn1daUX-J4reTHVwto&s=1786356363&e=3600&v=51532320&srv=x3&i=78.166&sp=5000
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICANTV%C4%B0NTROSU.mp4
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 64.Bölüm
-https://hd1d.uk-traffic-076.com/hls2/02/00001/2q5zvgc4afz7_n/master.m3u8?t=768CTZ0mLJixbJTuQ9E_LW2hbcxRd1ghFDi5jWfAyYo&s=1786356408&e=3600&v=51532466&srv=x3&i=78.166&sp=5000
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICANTV%C4%B0NTROSU.mp4
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 65.Bölüm
-https://y3k9.uk-traffic-076.com/hls2/02/00001/s7cvq4lmy8dx_n/master.m3u8?t=kh7ihRmLiC0Rowq9hQR9RclwSkJBOiEA4lTW5_qX_Z0&s=1786357447&e=3600&v=51535437&srv=x3&i=78.166&sp=5000
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICANTV%C4%B0NTROSU.mp4
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 66.Bölüm
-https://ksm2.uk-traffic-076.com/hls2/02/00001/fdhjldo1f8fn_n/master.m3u8?t=NPh1bi4Lu7Oje3_gR-IF6aoK5n4qdfD_qAEokyOxFUg&s=1786357471&e=3600&v=51535481&srv=x3&i=78.166&sp=5000
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICANTV%C4%B0NTROSU.mp4
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 67.Bölüm
-https://zm1w.uk-traffic-076.com/hls2/02/00001/ce185pwksmco_n/master.m3u8?t=89UtMvTQFXFIHZjxGmeTzokucKDqalZYvT4PG6hsqdI&s=1786357492&e=3600&v=51535528&srv=x3&i=78.166&sp=5000
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICANTV%C4%B0NTROSU.mp4
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 68.Bölüm
-https://h2m1.uk-traffic-076.com/hls2/02/00001/vxgtjxbuzwe3_n/master.m3u8?t=tCDqg7Y_SNAZ_cpZryuZdG5Hx2W4V3QGWXRwCudsGsI&s=1786357518&e=3600&v=51535595&srv=x3&i=78.166&sp=5000
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICANTV%C4%B0NTROSU.mp4
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 69.Bölüm
-https://sm21.uk-traffic-076.com/hls2/02/00001/0e8i0h9kx48l_n/master.m3u8?t=OY2mDg5pRK9XOWyoeD7MkIv_213Lb1Hc0L5GKOLfKLk&s=1786357536&e=3600&v=51535631&srv=x3&i=78.166&sp=5000
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICANTV%C4%B0NTROSU.mp4
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 70.Bölüm
-https://ak1m.uk-traffic-076.com/hls2/02/00001/mp3c12m1bcch_n/master.m3u8?t=_OauKVXnYtPsEv8Aur-MS1qtGNSH0lYqvOtPudj7cXQ&s=1786357557&e=3600&v=51535677&srv=x3&i=78.166&sp=5000
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICANTV%C4%B0NTROSU.mp4
 #EXTINF:-1 tvg-logo="https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg" group-title="🎬 | EZEL",Ezel 71.Bölüm
-https://ka5m.uk-traffic-076.com/hls2/02/00001/vgd9qvgzupb7_n/master.m3u8?t=KtpA8bFIXl_NdS4OaUH9YH2hJcFMfLW9hArPTeLy4VA&s=1786357576&e=3600&v=51535712&srv=x3&i=78.166&sp=5000
+https://github.com/patron4123/PATLICAN-/raw/refs/heads/main/PATLICANTV%C4%B0NTROSU.mp4
 #EXTINF:-1 tvg-logo="https://www.tugbam.net/wp-content/uploads/2026/03/esref-ruya-dizisi-poster.jpg" group-title="🎬 | EŞREF RÜYA",Eşref Rüya 1.Sezon 1.Bölüm
 https://one.82b6b2a6748f1e.click/4uMuuy2ypqbkUrd6cUqN3E_3/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.tugbam.net/wp-content/uploads/2026/03/esref-ruya-dizisi-poster.jpg" group-title="🎬 | EŞREF RÜYA",Eşref Rüya 1.Sezon 2.Bölüm
@@ -1323,75 +1325,77 @@ https://video.twimg.com/amplify_video/2081850135168905216/pl/KPI9WZ4BANsHLGFJ.m3
 https://video.twimg.com/amplify_video/2084390088767610880/pl/PY_cgFnuCYCJCQdf.m3u8?tag=29
 #EXTINF:-1 tvg-logo="https://www.diziizle.now/img/dizi/alti-ustu-istanbul.jpg" group-title="🎬 | ALTI ÜSTÜ İSTANBUL",Altı Üstü İstanbul 9.Bölüm
 https://video.twimg.com/amplify_video/2086925568809848832/pl/wBzcIgD-D6iOFcpX.m3u8?tag=29
-#EXTINF:-1 tvg-logo="https://www.sabantv.net/images/genel/logo_20260607_151024_1962.png" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",Şaban TV 7/24
+#EXTINF:-1 tvg-logo="https://www.sabantv.net/images/genel/logo_20260607_151024_1962.png" group-title="🎬 | 7/24 KANALLAR ",Şaban TV 7/24
 https://canaktv.sabantv.net:3996/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/IMG_20260702_165803-removebg-preview.png" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",GADDAR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/IMG_20260702_165803-removebg-preview.png" group-title="🎬 | 7/24 KANALLAR ",GADDAR
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=1472955&extension=ts&play_token=lzlVSptMMN
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/IMG_20260707_190924-removebg-preview.png" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",Kurtlar Vadisi 7/24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/IMG_20260707_190924-removebg-preview.png" group-title="🎬 | 7/24 KANALLAR ",Kurtlar Vadisi 7/24
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/106606
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/881bd3d0-2d72-45f0-81d6-b93b360eb210-removebg-preview.png" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",Sıfır Bir 7/24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/881bd3d0-2d72-45f0-81d6-b93b360eb210-removebg-preview.png" group-title="🎬 | 7/24 KANALLAR ",Sıfır Bir 7/24
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/124281
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/24aa9e49-408b-411e-afe3-b8f82ae3da15-removebg-preview.png" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",Sokağın Çocukları
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/24aa9e49-408b-411e-afe3-b8f82ae3da15-removebg-preview.png" group-title="🎬 | 7/24 KANALLAR ",Sokağın Çocukları
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/124282
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/1784148636100-removebg-preview.png" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",Kurtlar Vadisi Pusu 7/24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/1784148636100-removebg-preview.png" group-title="🎬 | 7/24 KANALLAR ",Kurtlar Vadisi Pusu 7/24
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/260506
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/4a4a2f5d-f104-4eaf-8bbb-c027414bff1f.jpg" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",Şahsiyet 7/24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/4a4a2f5d-f104-4eaf-8bbb-c027414bff1f.jpg" group-title="🎬 | 7/24 KANALLAR ",Şahsiyet 7/24
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/359710
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/9/9d/Prens_dizi_afi%C5%9F.jpg/500px-Prens_dizi_afi%C5%9F.jpg" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",Prens 7/24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/9/9d/Prens_dizi_afi%C5%9F.jpg/500px-Prens_dizi_afi%C5%9F.jpg" group-title="🎬 | 7/24 KANALLAR ",Prens 7/24
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/413164
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/099480051531080fa695e6297072b3db%20(1).jpg" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",Konuşanlar (Disney)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/099480051531080fa695e6297072b3db%20(1).jpg" group-title="🎬 | 7/24 KANALLAR ",Konuşanlar (Disney)
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/638442
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/099480051531080fa695e6297072b3db%20(1).jpg" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",Konuşanlar (Exxen)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/099480051531080fa695e6297072b3db%20(1).jpg" group-title="🎬 | 7/24 KANALLAR ",Konuşanlar (Exxen)
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/353319
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/099480051531080fa695e6297072b3db%20(1).jpg" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",Konuşamlar (Exxen) 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/099480051531080fa695e6297072b3db%20(1).jpg" group-title="🎬 | 7/24 KANALLAR ",Konuşamlar (Exxen) 2
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/443493
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/56/Gibi_6._sezon_afi%C5%9Fi.jpg" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",Gibi 7/24 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/56/Gibi_6._sezon_afi%C5%9Fi.jpg" group-title="🎬 | 7/24 KANALLAR ",Gibi 7/24 HD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/219435
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/33/Y%C4%B1lmaz_G%C3%BCney_%28cropped%29.jpg" group-title="🎬 | 7/24 DIZI & FILM KANALLARI",Yılmaz Güney 7/24 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/33/Y%C4%B1lmaz_G%C3%BCney_%28cropped%29.jpg" group-title="🎬 | 7/24 KANALLAR ",Yılmaz Güney 7/24 HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/79635
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix 7/24 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/logo.png" group-title="🎬 | 7/24 KANALLAR ",Boncuk TV
+http://104.238.23.191/BoncukTV/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix 7/24 HD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/435922
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix 2 HD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/435923
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix (Filmax) HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix (Filmax) HD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/185254
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix Animasyon HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix Animasyon HD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/419744
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix Aksiyon HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix Aksiyon HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/156976
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix Macera HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix Macera HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/45179
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix Bilimkurgu HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix Bilimkurgu HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/64787
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix Fantastik HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix Fantastik HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/114416
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix Suç HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix Suç HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/17231
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix Korku HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix Korku HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/167029
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix Gerilim HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix Gerilim HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/137368
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix Gizem HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix Gizem HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/60196
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix Drama HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix Drama HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/96459
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix Komedi HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix Komedi HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/34642
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix Romantik HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix Romantik HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/67182
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Netflix Belgesel HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX ",Netflix Belgesel HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/136732
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Squid_Game_2021_vector_logo_english.svg/500px-Squid_Game_2021_vector_logo_english.svg.png" group-title="🎬 | 7/24 NETFLİX FİLM & DİZİ",Squid Game 7/24 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Squid_Game_2021_vector_logo_english.svg/500px-Squid_Game_2021_vector_logo_english.svg.png" group-title="🎬 | 7/24 NETFLİX ",Squid Game 7/24 HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/34786
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png" group-title="🎬 | 7/24 DİSNEY DİZİ & FİLM KANALLARI",Disney 7/24 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png" group-title="🎬 | 7/24 DİSNEY ",Disney 7/24 HD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/259605
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png" group-title="🎬 | 7/24 DİSNEY DİZİ & FİLM KANALLARI",Disney + 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png" group-title="🎬 | 7/24 DİSNEY ",Disney + 2 HD
 http://mag.tivi-one-iptv.net/play/live.php?mac=00%3A1A%3A79%3A4F%3A67%3A78&stream=1472012&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png" group-title="🎬 | 7/24 DİSNEY DİZİ & FİLM KANALLARI",Disney + 3 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00%3A1A%3A79%3A4F%3A67%3A78&stream=1472013&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png" group-title="🎬 | 7/24 DİSNEY DİZİ & FİLM KANALLARI",Disney + 4 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00%3A1A%3A79%3A4F%3A67%3A78&stream=1472014&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/099480051531080fa695e6297072b3db%20(1).jpg" group-title="🎬 | 7/24 DİSNEY DİZİ & FİLM KANALLARI",Konuşanlar (Disney +)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png" group-title="🎬 | 7/24 DİSNEY ",Disney + 3 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:CA:6C:1F&stream=1472014&extension=ts&play_token=S1lOXHhJa6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png" group-title="🎬 | 7/24 DİSNEY ",Disney + 4 HD
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:CA:6C:1F&stream=1472015&extension=ts&play_token=S2hf6vtEc5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/099480051531080fa695e6297072b3db%20(1).jpg" group-title="🎬 | 7/24 DİSNEY ",Konuşanlar (Disney +)
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/638442
 #EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/21/12/15/19/33/3851620.jpg" group-title="🎬 | NEYMAR JR",Neymar Jr Kusursuz Kaos 1Bölüm
 https://one.makesomthingup.click/hF2b7W_YznNMAUM3rGwhwZVX/master.m3u8
@@ -1888,11 +1892,11 @@ https://vs22.photoflax.org/v/Gravity.Falls.S02E19.1080p.BluRay.x264.TR.ENG.Filmb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S2B20
 https://vs22.pictureflix.org/v/Gravity.Falls.S02E20.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.prectv70.lol/uploads/cache/poster_thumb/uploads/jpg/82696e1f9a11d8aa76112e283b156a95.jpg" group-title="🎬 | RONALDİNHO GAÚCHO",Ronaldinho Gaúcho 1.Bölüm
-https://j2mx.uk-traffic-076.com/hls2/01/00033/eofxa2t8y8qd_n/master.m3u8?t=PpajQLcW-Xpm2qGY_hqKlsDwPLFTwAwJLJlvMG25h_M&s=1786868123&e=3600&v=52793085&srv=x2&i=78.166&sp=5000&fr=eofxa2t8y8qd
+https://load.prectv63.lol/hls/11/cdn1280/54151ea51374b0782eb8ebafe2032fa0cf3028e5.mp4/index.m3u8?token=hdSfAsndacpitkCwdUFUCg&
 #EXTINF:-1 tvg-logo="https://a.prectv70.lol/uploads/cache/poster_thumb/uploads/jpg/82696e1f9a11d8aa76112e283b156a95.jpg" group-title="🎬 | RONALDİNHO GAÚCHO",Ronaldinho Gaúcho 2.Bölüm
-https://hd1d.uk-traffic-076.com/hls2/01/00033/wr9tpyqj45uz_n/master.m3u8?t=9SDe7T4YrvXzhIfkU0oFS_hAxhfmmjdvfzLjul5SAcU&s=1786868162&e=3600&v=52793290&srv=x3&i=78.166&sp=5000&fr=wr9tpyqj45uz
+https://load.prectv63.lol/hls/11/cdn1280/4d643f4d9704c99855cef01d308fe8ce4a0ab1de.mp4/index.m3u8?token=hdSfAsndacpitkCwdUFUCg&tms=17
 #EXTINF:-1 tvg-logo="https://a.prectv70.lol/uploads/cache/poster_thumb/uploads/jpg/82696e1f9a11d8aa76112e283b156a95.jpg" group-title="🎬 | RONALDİNHO GAÚCHO",Ronaldinho Gaúcho 3.Bölüm
-https://xn2m.uk-traffic-076.com/hls2/02/00033/x2xsbcoiwqd5_n/master.m3u8?t=iqSUHAUC9ddSUwLXQn5su0lSWdAUTh1_CsCUFvQWi30&s=1786868185&e=3600&v=52793327&srv=x2&i=78.166&sp=5000&fr=x2xsbcoiwqd5
+https://load.prectv63.lol/hls/11/cdn1280/0894a2fafda1380b4971166c70a8ae2fe7087368.mp4/index.m3u8?token=hdSfAsndacpitkCwdUFUCg&tms=17
 #EXTINF:-1 tvg-logo="https://filmmakinesi.to/uploads/postlar/afis/jose-mourinho-2026.jpg-thumb-detay.webp" group-title="🎬 | JOSE MOURİNHO",Jose Mourinho 1.Bölüm
 https://play.filmizlemelisinkanka.com/Cikti/HLS/josemourinhos01e011bolumfc925219a32b_ORIGINAL/master.m3u8
 #EXTINF:-1 tvg-logo="https://filmmakinesi.to/uploads/postlar/afis/jose-mourinho-2026.jpg-thumb-detay.webp" group-title="🎬 | JOSE MOURİNHO",Jose Mourinho 2.Bölüm
