@@ -12,9 +12,9 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=19668
 #EXTINF:-1 tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801838418.png" group-title="🇹🇷 | ULUSAL",STAR TV 4K
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=196679&extension=ts&play_token=wIZQXtaEUX
 #EXTINF:-1 tvg-logo="https://gbzottvsc21.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/82/0947057422345eb7f426_op_0_XL.webp" group-title="🇹🇷 | ULUSAL",NOW TV  4K
-http://99499ef3.com:8080/leventadiguzel/eGPBngS/234
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8689&extension=ts&play_token=ITzM56c4gt
 #EXTINF:-1 tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png" group-title="🇹🇷 | ULUSAL",TV 8 4K
-http://99499ef3.com:8080/leventadiguzel/eGPBngS/251
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8qfr8k6gs46f&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-logo="https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7/v2/images/kanal7-logo.svg" group-title="🇹🇷 | ULUSAL",KANAL 7 4K
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=196674&extension=ts&play_token=9BpPqEg56T
 #EXTINF:-1 tvg-logo="https://m.beyaztv.com.tr/images/logo.png" group-title="🇹🇷 | ULUSAL",BEYAZ TV 4K
@@ -99,30 +99,22 @@ http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259924
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259925&extension=ts&play_token=jZoTLOyXw1
 #EXTINF:-1 tvg-logo="https://img.dsmartgo.com.tr/content/w/Uq/16203/Thumbnail.png" group-title="🇹🇷 | ULUSAL",FX FHD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/354
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/500px-2018_Animal_Planet_logo.svg.png" group-title="🇹🇷 | ULUSAL",ANIMAL PLANET UHD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260049&extension=ts&play_token=z0w0VmioL3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/500px-2018_Animal_Planet_logo.svg.png" group-title="🇹🇷 | ULUSAL",ANIMAL PLANET UHD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260050&extension=ts&play_token=41tumZgik2
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-gurme-logo-png_seeklogo-367814.png" group-title="🇹🇷 | ULUSAL",beIN GURME UHD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260053&extension=ts&play_token=tEYZgT2nD6
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/500px-InvestigationDiscoveryLogo2020.svg.png" group-title="🇹🇷 | ULUSAL",DISCOVERY IDX UHD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260054&extension=ts&play_token=FLq2GIWeNP
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/discovery-channel-hd-buyuk-2.png?rkt=DfS6Tgv6Hjr93k3" group-title="🇹🇷 | ULUSAL",DISCOVERY CHANNEL HD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260055&extension=ts&play_token=hrdHQO8D0T
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/discovery-channel-hd-buyuk-2.png?rkt=DfS6Tgv6Hjr93k3" group-title="🇹🇷 | ULUSAL",DISCOVERY CHANNEL UHD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260056&extension=ts&play_token=pQO6vhvU6O
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/500px-Discovery_science_new_logo_2017.png" group-title="🇹🇷 | ULUSAL",DISCOVERY SCIENCE UHD
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260057&extension=ts&play_token=jXm9J2JoGs
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/500px-Discovery_science_new_logo_2017.png" group-title="🇹🇷 | ULUSAL",DISCOVERY SCIENCE UHD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260058&extension=ts&play_token=XD8DP5B1bp
 #EXTINF:-1 tvg-logo="https://gbzeottvsc32.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/45/1027323438155eb9b42e_op_0_XL.webp" group-title="🇹🇷 | ULUSAL",TV 8.5 4K
-http://99499ef3.com:8080/leventadiguzel/eGPBngS/222
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8686&extension=ts&play_token=8qMkr5gsDg
 #EXTINF:-1 tvg-logo="https://www.bikanal.com/frontend/img/logo.webp" group-title="🇹🇷 | ULUSAL",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/330px-Tabii_logo.svg.png" group-title="🇹🇷 | ULUSAL",Tabii TV
-http://99499ef3.com:8080/leventadiguzel/eGPBngS/404644
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/500px-TRT_4K.svg.png" group-title="🇹🇷 | ULUSAL",TRT 4K
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/244
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/500px-2018_Animal_Planet_logo.svg.png" group-title="🦁 | BELGESEL",ANIMAL PLANET
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200355&extension=ts&play_token=C6JkUxCuRA
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/800x450_b/p026sp8r.jpg" group-title="🦁 | BELGESEL",BBC EARTH HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197431&extension=ts&play_token=nCZocT8oj0
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/9/1/national-geographic-logo-png_seeklogo-97288.png" group-title="🦁 | BELGESEL",NATIONAL GEOGRAPHIC HD
@@ -222,9 +214,9 @@ https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.cnnturk.com/i/cnnturk/75/740x416/5f46aa08d265a21b183fb909.jpg" group-title="⚽ | SPOR",BEIN SPORTS HABER HD
 http://watchingt.site:80/play/live.php?mac=00:1A:79:11:05:26&stream=686359&extension=ts
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD1.png" group-title="⚽ | SPOR",BEIN SPORTS 1 FHD
-http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10698&extension=ts
+http://klaratv.com:80/play/live.php?mac=00:1A:79:E5:42:C5&stream=913458&extension=ts
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD1.png" group-title="⚽ | SPOR",BEIN SPORTS 1 A
-https://corestream.ardastream.live//hls/bein1.m3u8
+http://klaratv.com:80/play/live.php?mac=00:1A:79:E5:42:C5&stream=913459&extension=ts
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD1.png" group-title="⚽ | SPOR",BEIN SPORTS 1 B
 https://andro.evrenesoglu99.click/checklist/batutest.m3u8
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD2.png" group-title="⚽ | SPOR",BEIN SPORTS 2 FHD
@@ -233,18 +225,14 @@ http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10697&extension=ts
 http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10700&extension=ts
 #EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports3.png" group-title="⚽ | SPOR",BEIN SPORTS 3 FHD
 http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10696&extension=ts
-#EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD1.png" group-title="⚽ | SPOR",BEIN SPORTS 1
-https://corestream.siteyaptim.live//beintv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSHD2.png" group-title="⚽ | SPOR",BEIN SPORTS 2
-http://99499ef3.com:8080/leventadiguzel/eGPBngS/116091
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports3.png" group-title="⚽ | SPOR",BEIN SPORTS 3
-http://99499ef3.com:8080/leventadiguzel/eGPBngS/125160
-#EXTINF:-1 tvg-logo="https://digiturkairtv.com/images/channels/beinsports4.png" group-title="⚽ | SPOR",BEIN SPORTS 4
-http://99499ef3.com:8080/leventadiguzel/eGPBngS/125161
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-4-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="⚽ | SPOR",BEIN SPORTS 4
+http://klaratv.com:80/play/live.php?mac=00:1A:79:E5:42:C5&stream=913443&extension=ts
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-5-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="⚽ | SPOR",BEIN SPORTS 5
+http://klaratv.com:80/play/live.php?mac=00:1A:79:E5:42:C5&stream=1091502&extension=ts
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSMAX1.png" group-title="⚽ | SPOR",BEIN SPORTS MAX 1 FHD
-http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196273&extension=ts
+http://klaratv.com:80/play/live.php?mac=00:1A:79:E5:42:C5&stream=913442&extension=ts
 #EXTINF:-1 tvg-logo="https://airtvplayer.com/images/channels/beINSPORTSMAX2.png" group-title="⚽ | SPOR",BEIN  SPORTS MAX 2 FHD
-http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196274&extension=ts
+http://klaratv.com:80/play/live.php?mac=00:1A:79:E5:42:C5&stream=913441&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b2/SporSMART_HD_logo.png" group-title="⚽ | SPOR",SPOR SMART HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:75:3A:21&stream=868609&extension=ts&play_token=0VZ2SE5rf8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Smart-spor-2_635084424082165858.png" group-title="⚽ | SPOR",SMART SPORT 2 UHD
@@ -290,29 +278,31 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/29/TJKTV_Logo.jpg?_=20080826202841" group-title="⚽ | SPOR",TJK TV HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=18648&extension=ts&play_token=35ATmf7mxn
 #EXTINF:-1 tvg-logo="https://img.piri.net/piri/upload/3/2025/2/19/5cb0efcf-83lhr4nyidrqbyvixbaoz8.jpeg" group-title="⚽ | SPOR",TABII SPOR HD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:A6:55:83&stream=1069950&extension=ts&play_token=VWJZYxaTLg
+http://82.70.45.131/TabiSPOR.php?ID=tabiispor
 #EXTINF:-1 tvg-logo="https://img.piri.net/piri/upload/3/2025/2/19/5cb0efcf-83lhr4nyidrqbyvixbaoz8.jpeg" group-title="⚽ | SPOR",TABII SPOR 1 HD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:A6:55:83&stream=1007239&extension=ts&play_token=g8BhPopxQv
+http://82.70.45.131/TabiSPOR.php?ID=tabiiSpor1
 #EXTINF:-1 tvg-logo="https://img.piri.net/piri/upload/3/2025/2/19/5cb0efcf-83lhr4nyidrqbyvixbaoz8.jpeg" group-title="⚽ | SPOR",TABII SPOR 2 HD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:A6:55:83&stream=1007238&extension=ts&play_token=eT3uaO6Rnc
+http://82.70.45.131/TabiSPOR.php?ID=tabiiSpor2
 #EXTINF:-1 tvg-logo="https://img.piri.net/piri/upload/3/2025/2/19/5cb0efcf-83lhr4nyidrqbyvixbaoz8.jpeg" group-title="⚽ | SPOR",TABII SPOR 3 HD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:A6:55:83&stream=1007237&extension=ts&play_token=wmvmYrDtFY
+http://82.70.45.131/TabiSPOR.php?ID=tabiiSpor3
 #EXTINF:-1 tvg-logo="https://img.piri.net/piri/upload/3/2025/2/19/5cb0efcf-83lhr4nyidrqbyvixbaoz8.jpeg" group-title="⚽ | SPOR",TABII SPOR 4 HD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:A6:55:83&stream=1007236&extension=ts&play_token=hVHwjzm1ab
+http://82.70.45.131/TabiSPOR.php?ID=tabiiSpor4
 #EXTINF:-1 tvg-logo="https://img.piri.net/piri/upload/3/2025/2/19/5cb0efcf-83lhr4nyidrqbyvixbaoz8.jpeg" group-title="⚽ | SPOR",TABII SPOR 5 HD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:A6:55:83&stream=1007235&extension=ts&play_token=QHv7806MLc
+http://82.70.45.131/TabiSPOR.php?ID=tabiiSpor5
 #EXTINF:-1 tvg-logo="https://img.piri.net/piri/upload/3/2025/2/19/5cb0efcf-83lhr4nyidrqbyvixbaoz8.jpeg" group-title="⚽ | SPOR",TABII SPOR 6 HD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:A6:55:83&stream=1007234&extension=ts&play_token=HmKNu2i71a
+http://82.70.45.131/TabiSPOR.php?ID=tabiiSpor6
 #EXTINF:-1 tvg-logo="https://img.piri.net/piri/upload/3/2025/2/19/5cb0efcf-83lhr4nyidrqbyvixbaoz8.jpeg" group-title="⚽ | SPOR",TABII SPOR 7 HD
-http://99499ef3.com:8080/leventadiguzel/eGPBngS/460130
-#EXTINF:-1 tvg-logo="https://www.sifirtv.com/sifir-tv-logo.png" group-title="⚽ | SPOR",Sıfır TV HD
-http://99499ef3.com:8080/leventadiguzel/eGPBngS/362954
+http://82.70.45.131/TabiSPOR.php?ID=tabiiSpor7
+#EXTINF:-1 tvg-logo="https://img.piri.net/piri/upload/3/2025/2/19/5cb0efcf-83lhr4nyidrqbyvixbaoz8.jpeg" group-title="⚽ | SPOR",TABII SPOR 8 HD
+http://82.70.45.131/TabiSPOR.php?ID=tabiiSpor8
 #EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250815850937.png" group-title="⚽ | SPOR",Ekol Sports HD
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://gecbunlari.com/wp-content/uploads/2024/11/CBC-Sport-1024x1024.png.webp" group-title="⚽ | SPOR",CBC Sports
 http://ott.teleport.az/server33/hls/cbc_sport.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 #EXTINF:-1 tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" group-title="⚽ | SPOR",İdman TV
 http://109.205.166.68/server124/idman_az/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+#EXTINF:-1 tvg-logo="https://img.sporekrani.com/tr_h_256,w_256,c_limit/channels/69af8794-523c-46f0-8b08-10a5e682c90c.png" group-title="⚽ | SPOR",Sıfır TV HD
+http://umperisn.mywire.org/index.php?id=611874&token=DeaTHLesS
 #EXTINF:-1 tvg-logo="https://image.cnnturk.com/i/cnnturk/75/740x416/6141ecf3b57f15170404f2dd.jpg" group-title="⚽ | EXXEN SPOR",EXXEN SPORT 1 HD
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=686504&extension=ts&play_token=J24zw8hgY2
 #EXTINF:-1 tvg-logo="https://image.cnnturk.com/i/cnnturk/75/740x416/6141ecf3b57f15170404f2dd.jpg" group-title="⚽ | EXXEN SPOR",EXXEN SPORT 2 HD
@@ -385,6 +375,14 @@ https://dt-vod-beinsports.akamaized.net/0/47/9252/ligtvcomtr_tauri_ozt_20262027_
 https://dt-vod-beinsports.akamaized.net/8/5e/0f5b/ligtvcomtr_tauri_ozt_20262027_3_gs_goz_3h_29h_ip.mp4?hdnts=test~hmac=2c7e463584e68e56486c0e2a12ab02f5f83671f194ddf5212e569d52c051e80c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/0b29aee2-72c2-442d-9666-105e8b2c13de-removebg-preview.png" group-title="⚽ | ÖZETLER",MAR 1 - 1 VAN
 https://dt-vod-beinsports.akamaized.net/e/20/408e/ligtvcomtr_tauri_ptt_20262027_4_mar_van_4h_v3_29h_ip.mp4?hdnts=test~hmac=2c7e463584e68e56486c0e2a12ab02f5f83671f194ddf5212e569d52c051e80c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/0b29aee2-72c2-442d-9666-105e8b2c13de-removebg-preview.png" group-title="⚽ | ÖZETLER",PSG 2 - 0 BAŞ
+https://dt-vod-beinsports.akamaized.net/0/4c/685b/ligtvcomtr_tauri_haber_20_premier_bas_psg_28ekim_ip.mp4?hdnts=test~hmac=2c7e463584e68e56486c0e2a12ab02f5f83671f194ddf5212e569d52c051e80c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/0b29aee2-72c2-442d-9666-105e8b2c13de-removebg-preview.png" group-title="⚽ | ÖZETLER",PSG 5 - 1 BAŞ
+https://dt-vod-beinsports.akamaized.net/3/d6/204e/ligtvcomtr_tauri_haber_20_premier_psg_bas_ip.mp4?hdnts=test~hmac=2c7e463584e68e56486c0e2a12ab02f5f83671f194ddf5212e569d52c051e80c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/0b29aee2-72c2-442d-9666-105e8b2c13de-removebg-preview.png" group-title="⚽ | ÖZETLER",KSP 2 - 2 AMD
+https://dt-vod-beinsports.akamaized.net/3/94/6600/ligtvcomtr_tauri_ozt_20262027_4_ppasa_amed_6eyl_ip.mp4?hdnts=test~hmac=2c7e463584e68e56486c0e2a12ab02f5f83671f194ddf5212e569d52c051e80c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/0b29aee2-72c2-442d-9666-105e8b2c13de-removebg-preview.png" group-title="⚽ | ÖZETLER",BJK 2 - 1 FB
+https://dt-vod-beinsports.akamaized.net/f/94/f74d/ligtvcomtr_tauri_ozt_20262027_4_fb_bjk_4h_5eyl_ip.mp4?hdnts=test~hmac=2c7e463584e68e56486c0e2a12ab02f5f83671f194ddf5212e569d52c051e80c
 #EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/COCUKSMART.png" group-title="👶 | COCUK",ÇOCUK SMART
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/425
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/500px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="👶 | COCUK",NICK JR
@@ -439,8 +437,6 @@ http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=260099
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Rudaw.jpg" group-title="📺 | KÜRTÇE",Rudaw
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/K24logo.png" group-title="📺 | KÜRTÇE",Kürdistan 24 (Ses Var)
-https://audio-edge-5bkfj.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/Screenshot_2026-07-21-19-05-21-108_com.google.android.googlequicksearchbox-edit-removebg-preview.png" group-title="📺 | KÜRTÇE",JÎN TV
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-logo="https://www.medyahabertv.digital/images/logo.webp" group-title="📺 | KÜRTÇE",Medya Haber
@@ -451,6 +447,8 @@ https://stream.badinan.xyz/welat/tv/chunklist_w1058243522.m3u8
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/500px-TRT_Kurd%C3%AE_logo.svg.png?utm_source=tr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="📺 | KÜRTÇE",TRT Kurdi FHD
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/Medmuziklogo.png" group-title="📺 | KÜRTÇE",Med Muzik
+http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/IMG_20260721_151349-removebg-preview.png" group-title="📺 | REDBOX",Redbox Premiere HD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/386
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/1784636451225-removebg-preview.png" group-title="📺 | REDBOX",Redbox Vizyon HD
@@ -551,6 +549,10 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=19712
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197120&extension=ts&play_token=4qs9Rb6Vm6
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/ae3d90a0-37ee-4e48-a6bc-1375e5f1329a.png" group-title="📺 | SINEMA",Sinema Yerli HD
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197123&extension=ts&play_token=VLONELclwy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/logo.png" group-title="📺 | SINEMA",Boncuk TV
+http://104.238.23.191/BoncukTV/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/NFm4vuXKig57.png" group-title="📺 | SINEMA",Sonsuzluk TV
+https://catcast.ismailturret.workers.dev/50859.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/main/Patl%C4%B1canTV%20(2).png" group-title="####### PATLICAN TV #######",### PATLICAN TV ###
 https://github.com/patron4123/PATLICAN-/raw/333913b027bf0aa0b8de5451933a336d5b1f2d5c/2026-07-15-184005612.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/main/Patl%C4%B1canTV%20(2).png" group-title="####### PATLICAN TV #######",## PATLICAN TV ##
@@ -950,7 +952,7 @@ https://vidmody.com/vs/tt10872600
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2k49onFB4SnbMWgczIhf1JWl6Tr.jpg" group-title="🎬 | FİLM",Spiderman:ÖrümcekEvrenineGeçiş
 https://vidmody.com/vs/tt9362722
 #EXTINF:-1 tvg-logo="https://cdn.marvel.com/content/2x/spidermanbrandnewday_lob_crd_02.webp" group-title="🎬 | FİLM",Örümcek-Adam: Yepyeni Bir Gün
-https://p.playturka.space/videos/x7g5zCYk/master.m3u8?v=1787319295
+https://one.makesomthingup.click/gwrZ0Ya8Uh0XbVuomdbM5ZiL/master.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8gdOy6vd1lK2KyakZroETXyB4re.jpg" group-title="🎬 | FİLM",Piyanist
 https://vidmody.com/vs/tt0253474
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9VFauPfgRHi2zutzoFP3Uz7rVnW.jpg" group-title="🎬 | FİLM",Ferdinand
@@ -1009,8 +1011,6 @@ http://99499ef3.com:8080/leventadiguzel/eGPBngS/443493
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/219435
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/33/Y%C4%B1lmaz_G%C3%BCney_%28cropped%29.jpg" group-title="🎬 | 7/24 KANALLAR",Yılmaz Güney 7/24 HD
 http://storetvx.xyz:2095/Enes.9461/Nes.9461/79635
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/patron4123/PATLICAN-/refs/heads/main/logo.png" group-title="🎬 | 7/24 KANALLAR",Boncuk TV
-http://104.238.23.191/BoncukTV/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX",Netflix 7/24 HD
 http://99499ef3.com:8080/leventadiguzel/eGPBngS/435922
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/500px-Netflix_2015_logo.svg.png" group-title="🎬 | 7/24 NETFLİX",Netflix 2 HD
@@ -1500,11 +1500,11 @@ https://puhu.akamaized.net/2022/11/duy_beni_19_bolum-f82a725f/media-2/hdntl=exp=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/23/DuyBeni.jpg" group-title="🎬 | DUY BENİ",Duy Beni 20.Bölüm
 https://puhu-p3.mncdn.com/smil:duy_beni_s1b20_revize_DD_smil_subs_202302262306.smil/playlist.m3u8?st=oxJwlAhQL4e0jZRVwkeN2Q&e=1784992809&r=2
 #EXTINF:-1 tvg-logo="https://filmmakinesi.to/uploads/postlar/afis/jose-mourinho-2026.jpg-thumb-detay.webp" group-title="🎬 | JOSE MOURİNHO",Jose Mourinho 1.Bölüm
-https://load.prectv63.lol/hls/11/cdn1280/OyQUpKRxaJLHturznHJQMeR4TZ9a9sj3lxq6mJbh.mp4/index.m3u8?token=1yL5fZ-lo_uYtV75Zkizhg&
+https://s429.rapidrame.com/hls2/01/00036/qtxvwpbr4sri_,l,.urlset/master.m3u8?t=FSkudiNDSPyvZ--yt5U_JfvnUqNPy5yOUh66ZzgOD9Y&s=1788447733&e=14400&f=182855&i=0.0&sp=0&n=hrkijtrulc3hzqhg
 #EXTINF:-1 tvg-logo="https://filmmakinesi.to/uploads/postlar/afis/jose-mourinho-2026.jpg-thumb-detay.webp" group-title="🎬 | JOSE MOURİNHO",Jose Mourinho 2.Bölüm
-https://load.prectv63.lol/hls/11/cdn1280/U3h1FEYXeRA7FOoZhEhMVFXMRwN5RoEpxHUeJOSF.mp4/index.m3u8?token=1yL5fZ-lo_uYtV75Zkizhg&tms=17
+https://s427.rapidrame.com/hls2/01/00036/zgohejsasz55_,l,.urlset/master.m3u8?t=unhpXDL9dW1TKUAnc4uEvL-1s8Dh9b7N9sIJ2hpwBcM&s=1788447763&e=14400&f=182858&i=0.0&sp=0&n=hv8q7ei8q9dwa1n1
 #EXTINF:-1 tvg-logo="https://filmmakinesi.to/uploads/postlar/afis/jose-mourinho-2026.jpg-thumb-detay.webp" group-title="🎬 | JOSE MOURİNHO",Jose Mourinho 3.Bölüm
-https://load.prectv63.lol/hls/11/cdn1280/ZHqKJDfs4OynNYoprfAq4PQtVNnnXARfelpistUs.mp4/index.m3u8?token=1yL5fZ-lo_uYtV75Zkizhg&tms=17
+https://s427.rapidrame.com/hls2/01/00036/exx9g0e56yiv_,l,.urlset/master.m3u8?t=nxuMs7DQjSoaTiPi6jg4lsypv0_xQdDZk0iAK3733hA&s=1788447779&e=14400&f=182861&i=0.0&sp=0&n=dacnfc9edk2fviwt
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B1
 https://vs21.photomag.biz/v/Gravity.Falls.S01E01.1080p.BluRay.x264.TR.ENG.FilmbolSeries/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/Esrarengiz_Kasaba_Logosu.png" group-title="🎬 | ESRARENGİZ KASABA",Esrarengiz Kasaba S1B2
@@ -1949,13 +1949,23 @@ https://storage.diziyou.one/episodes/24714_tr/play.m3u8
 https://storage.diziyou.one/episodes/24715_tr/play.m3u8
 #EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/22/09/23/15/22/4271932.jpg" group-title="🎬 | WEDNESDAY",Wednesday 2.Sezon 8.Bölüm
 https://storage.diziyou.one/episodes/24716_tr/play.m3u8
-#EXTINF:-1 group-title="🎬 | THE LOONEY TUNES SHOW",The Looney Tunes Show 1.S 1.B
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Looney_Tunes_Show_logo.svg/500px-The_Looney_Tunes_Show_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="🎬 | THE LOONEY TUNES SHOW",The Looney Tunes Show 1.S 1.B
 https://vs22.photoflax.org/v/The.Looney.Tunes.Show.S01E01.1080p.WEB-DL.x264.TR/master.m3u8
-#EXTINF:-1 group-title="🎬 | THE LOONEY TUNES SHOW",The Looney Tunes Show 1.S 2.B
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Looney_Tunes_Show_logo.svg/500px-The_Looney_Tunes_Show_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="🎬 | THE LOONEY TUNES SHOW",The Looney Tunes Show 1.S 2.B
 https://vs21.photoflax.org/v/The.Looney.Tunes.Show.S01E02.1080p.WEB-DL.x264.TR/master.m3u8
-#EXTINF:-1 group-title="🎬 | THE LOONEY TUNES SHOW",The Looney Tunes Show 1.S 3.B
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Looney_Tunes_Show_logo.svg/500px-The_Looney_Tunes_Show_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="🎬 | THE LOONEY TUNES SHOW",The Looney Tunes Show 1.S 3.B
 https://vs21.pictureflix.org/v/The.Looney.Tunes.Show.S01E03.1080p.WEB-DL.x264.TR/master.m3u8
-#EXTINF:-1,PSG 2 - 0 BAŞ
-https://dt-vod-beinsports.akamaized.net/0/4c/685b/ligtvcomtr_tauri_haber_20_premier_bas_psg_28ekim_ip.mp4?hdnts=test~hmac=2c7e463584e68e56486c0e2a12ab02f5f83671f194ddf5212e569d52c051e80c
-#EXTINF:-1,PSG 5 - 1 BAŞ
-https://dt-vod-beinsports.akamaized.net/3/d6/204e/ligtvcomtr_tauri_haber_20_premier_psg_bas_ip.mp4?hdnts=test~hmac=2c7e463584e68e56486c0e2a12ab02f5f83671f194ddf5212e569d52c051e80c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Looney_Tunes_Show_logo.svg/500px-The_Looney_Tunes_Show_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="🎬 | THE LOONEY TUNES SHOW",The Looney Tunes Show 1.S 4.B
+https://vs21.photoflix.org/v/The.Looney.Tunes.Show.S01E04.1080p.WEB-DL.x264.TR/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Looney_Tunes_Show_logo.svg/500px-The_Looney_Tunes_Show_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="🎬 | THE LOONEY TUNES SHOW",The Looney Tunes Show 1.S 5.B
+https://vs19.photoflix.org/v/The.Looney.Tunes.Show.S01E05.1080p.WEB-DL.x264.TR/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Looney_Tunes_Show_logo.svg/500px-The_Looney_Tunes_Show_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="🎬 | THE LOONEY TUNES SHOW",The Looney Tunes Show 1.S 6.B
+https://vs19.photoflix.org/v/The.Looney.Tunes.Show.S01E06.1080p.WEB-DL.x264.TR/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Looney_Tunes_Show_logo.svg/500px-The_Looney_Tunes_Show_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="🎬 | THE LOONEY TUNES SHOW",The Looney Tunes Show 1.S 7.B
+https://vs19.pictureflix.org/v/The.Looney.Tunes.Show.S01E07.1080p.WEB-DL.x264.TR/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Looney_Tunes_Show_logo.svg/500px-The_Looney_Tunes_Show_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="🎬 | THE LOONEY TUNES SHOW",The Looney Tunes Show 1.S 8.B
+https://vs21.photoflick.org/v/The.Looney.Tunes.Show.S01E08.1080p.WEB-DL.x264.TR/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Looney_Tunes_Show_logo.svg/500px-The_Looney_Tunes_Show_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="🎬 | THE LOONEY TUNES SHOW",The Looney Tunes Show 1.S 9.B
+https://vs21.photomag.biz/v/The.Looney.Tunes.Show.S01E09.1080p.WEB-DL.x264.TR/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Looney_Tunes_Show_logo.svg/500px-The_Looney_Tunes_Show_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="🎬 | THE LOONEY TUNES SHOW",The Looney Tunes Show 1.S 10.B
+https://vs22.photostack.net/v/The.Looney.Tunes.Show.S01E10.1080p.WEB-DL.x264.TR/master.m3u8
